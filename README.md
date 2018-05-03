@@ -1,0 +1,3 @@
+# scripts
+hello
+hello again
